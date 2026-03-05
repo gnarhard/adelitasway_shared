@@ -1,2 +1,5 @@
-adelitasway_web/
-adelitasway_app/
+web/
+app/
+
+**/.DS_Store
+
